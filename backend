@@ -1,1 +1,5 @@
-
+Gunakan library seperti ethers.js untuk memanggil fungsi smart contract (registerMerchant(), pay()) dari sisi aplikasi.
+Buat logika konversi ke stablecoin yang dipatok ke IDR (boleh berupa simulasi/perhitungan sederhana, tidak perlu integrasi bank sungguhan).
+Buat mock/simulasi untuk API QRIS atau perbankan yang tidak benar-benar diintegrasikan, supaya demo tetap berjalan lancar tanpa dependensi eksternal.
+Sediakan fungsi-fungsi (helper functions) yang bisa langsung dipanggil oleh kedua developer frontend.
+Koordinasi rutin dengan developer Solidity (untuk ABI & contract address) dan kedua developer frontend (untuk kebutuhan data).
