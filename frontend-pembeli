@@ -1,1 +1,5 @@
-wallet-connect + pay flow
+Buat tombol "Connect Wallet" (integrasi MetaMask / WalletConnect).
+Buat fitur scan QR code milik merchant.
+Setelah scan, tampilkan jumlah pembayaran yang harus dibayar dan tombol konfirmasi.
+Buat halaman konfirmasi yang menunjukkan bahwa transaksi berhasil (transaction hash, status sukses, dll).
+Uji coba alur dari awal (connect wallet) sampai akhir (konfirmasi sukses) berulang kali agar lancar saat demo.
