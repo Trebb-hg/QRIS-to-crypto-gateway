@@ -1,1 +1,7 @@
-
+Pelajari dasar-dasar Solidity (CryptoZombies atau dokumentasi resmi Solidity) — 1-2 hari.
+Buat fungsi registerMerchant() — pedagang/warung mendaftar dengan alamat wallet mereka.
+Buat fungsi pay() — menerima pembayaran stablecoin dari customer dan mencatatnya ke merchant ID yang sesuai.
+Buat event on-chain yang di-emit setiap kali pembayaran terjadi, supaya frontend bisa mendeteksinya secara real-time.
+Deploy contract ke BNB Chain testnet.
+Bagikan contract address dan ABI ke tim (khususnya ke developer JavaScript) sesegera mungkin agar mereka tidak terhambat.
+Uji ulang alur pembayaran end-to-end sebelum submission.
