@@ -1,1 +1,5 @@
-QR Penjual + dashboard
+Buat halaman pendaftaran merchant (input nama warung, alamat wallet, dll).
+Buat generator QR code yang meng-encode alamat wallet / merchant ID milik merchant.
+Buat dashboard merchant yang menampilkan pembayaran masuk secara real-time (data dari developer JavaScript/backend).
+Pastikan tampilan sederhana dan mudah dipahami — target pengguna adalah pemilik warung, bukan orang teknis.
+Uji coba tampilan di perangkat mobile (banyak pemilik warung akan pakai HP, bukan laptop).
